@@ -463,11 +463,3 @@ Esta máquina demuestra:
 ✔ Pivoting  
 ✔ Explotación Webmin  
 ✔ Shell obtenida
-
----
-
-## 🚀 Nivel alcanzado
-
-👉 Pentesting realista (nivel junior–intermedio)
-
----
